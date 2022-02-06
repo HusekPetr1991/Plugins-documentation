@@ -8,4 +8,4 @@ dummy text [dummy](../dummy.md). + images
 
 
 
-![header image](https://github.com/HusekPetr1991/Plugins-documentation/blob/main/Plugins/SDIR%20plugin/example.jpg?raw=true)
+![header image](https://github.com/HusekPetr1991/Plugins-documentation/blob/main/Plugins/SDIR%20plugin/example.png?raw=true)

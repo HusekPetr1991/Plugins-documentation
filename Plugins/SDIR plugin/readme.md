@@ -1,7 +1,9 @@
-# Add plugin configuration
+# Description
 
-The `Shopware plugin system` provides you with the option to create a configuration page for your plugin without any knowledge of templating or the `Shopware Administration`.
+The `Dummy` text
 
-## Prerequisites
+## Configuration
 
-To build your own configuration page for your plugin, you first need a plugin as base. Therefore, you can refer to the [Plugin Base Guide](../documentation.md).
+dummy text [dummy](../dummy.md). + images
+
+![header image](https://raw.github.com/HusekPetr1991/Plugins-documentation/Plugins/SDIR%20plugin/master/example.jpg)

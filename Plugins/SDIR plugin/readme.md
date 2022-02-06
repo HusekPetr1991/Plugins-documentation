@@ -4,7 +4,7 @@ The `Dummy` text
 
 ## Configuration
 
-dummy text [dummy](../dummy.md). + images
+dummy text [dummy](https://sw6-petr.4m.media/). + images
 
 
 

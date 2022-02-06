@@ -6,4 +6,7 @@ The `Dummy` text
 
 dummy text [dummy](../dummy.md). + images
 
-![header image](https://raw.github.com/HusekPetr1991/Plugins-documentation/blob/main/Plugins/SDIR%20plugin/example.jpg?raw=true)
+
+
+![header image](https://raw.github.com/HusekPetr1991/Plugins-documentation/main/example.jpg)
+https://github.com/HusekPetr1991/Plugins-documentation/blob/main/Plugins/SDIR%20plugin/example.jpg

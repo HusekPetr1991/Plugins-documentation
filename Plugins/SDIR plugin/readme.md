@@ -34,4 +34,4 @@ You decide to replace all these images with another and prestigious image that i
 * Added language support for Germany
 
 ### Release 1.0.0 (Jannuary, 2021)
-*Initial release
+* Initial release

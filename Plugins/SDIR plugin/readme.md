@@ -11,6 +11,7 @@ This <strong>"SDIR"</strong> plugin adds the possibility to exchange the origina
 
 ## Configuration
 
+
 dummy text [dummy](../dummy.md). + images
 
 

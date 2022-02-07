@@ -1,2 +1,2 @@
-# Plugins documentation
- Here you can find documentation for our plugins
+# Plugins-documentation
+ Documentation for plugins created by us
